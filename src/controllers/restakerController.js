@@ -1,4 +1,4 @@
-const { getDelegationAmount } = require('../services/eigenlayerContractService'); // ADD THIS LINE
+const { getDelegationAmount } = require('../services/eigenLayerContractService'); // ADD THIS LINE
 
 const getRestakers = async (req, res) => {
   try {

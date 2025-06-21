@@ -1,5 +1,5 @@
 const { ethers } = require('ethers');
-const eigenlayerABI = require('../utils/eigenlayerABI.json'); // Make sure this path is correct
+const eigenlayerABI = require('../utils/eigenLayerABI.json'); // Make sure this path is correct
 
 const EIGENLAYER_CONTRACT_ADDRESS = '0x94B87a0279c6D987a095E2B5cDD79E870f06B086'; // Correct EigenLayer Mainnet Contract
 

@@ -1,6 +1,6 @@
 const Validator = require('../models/Validator');
 
-const { getOperatorsFromContract } = require('../services/eigenlayerContractService'); // ADD THIS LINE
+const { getOperatorsFromContract } = require('../services/eigenLayerContractService'); // ADD THIS LINE
 
 const getValidators = async (req, res) => {
   try {
